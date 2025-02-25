@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\.NET\\WebAPI\\NZWalks\\NZWalksAPI\\wwwroot\\images\\Konoha.jpg",
+      "PackagePath": "staticwebassets\\images\\Konoha.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NZWalksAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NZWalksAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.NZWalksAPI.props",
+      "PackagePath": "build\\NZWalksAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.NZWalksAPI.props",
+      "PackagePath": "buildMultiTargeting\\NZWalksAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.NZWalksAPI.props",
+      "PackagePath": "buildTransitive\\NZWalksAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "RGWGBi9vAfK/5sthgoRPR4Q3JasqFSJA+KnPRd0J5Sw=",
+  "Source": "NZWalksAPI",
+  "BasePath": "_content/NZWalksAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NZWalksAPI\\wwwroot",
+      "Source": "NZWalksAPI",
+      "ContentRoot": "E:\\.NET\\WebAPI\\NZWalks\\NZWalksAPI\\wwwroot\\",
+      "BasePath": "_content/NZWalksAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\.NET\\WebAPI\\NZWalks\\NZWalksAPI\\wwwroot\\images\\Konoha.jpg",
+      "SourceId": "NZWalksAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\.NET\\WebAPI\\NZWalks\\NZWalksAPI\\wwwroot\\",
+      "BasePath": "_content/NZWalksAPI",
+      "RelativePath": "images/Konoha#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6m2jc9ou39",
+      "Integrity": "/uM8tgTRJx57z6a0rCdWhKLQvJYa/WKsNwSqNlKAc60=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Konoha.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/Konoha.6m2jc9ou39.jpg",
+      "AssetFile": "E:\\.NET\\WebAPI\\NZWalks\\NZWalksAPI\\wwwroot\\images\\Konoha.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34971"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/uM8tgTRJx57z6a0rCdWhKLQvJYa/WKsNwSqNlKAc60=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 20:21:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6m2jc9ou39"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Konoha.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/uM8tgTRJx57z6a0rCdWhKLQvJYa/WKsNwSqNlKAc60="
+        }
+      ]
+    },
+    {
+      "Route": "images/Konoha.jpg",
+      "AssetFile": "E:\\.NET\\WebAPI\\NZWalks\\NZWalksAPI\\wwwroot\\images\\Konoha.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34971"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/uM8tgTRJx57z6a0rCdWhKLQvJYa/WKsNwSqNlKAc60=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 20:21:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/uM8tgTRJx57z6a0rCdWhKLQvJYa/WKsNwSqNlKAc60="
+        }
+      ]
+    }
+  ]
+}

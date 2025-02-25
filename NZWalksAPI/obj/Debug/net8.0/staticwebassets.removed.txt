@@ -1,0 +1,1 @@
+E:\.NET\WebAPI\NZWalks\NZWalksAPI\wwwroot\images\Konoha.jpg
